@@ -1,9 +1,10 @@
 
-![logo](https://www.canva.com/design/DAF7Qiam-c4/_M0LkgpvqCRlf_vF9dvDzw/edit?utm_content=DAF7Qiam-c4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
- 
+
+[![MasterHead](https://www.canva.com/design/DAF7Qiam-c4/_M0LkgpvqCRlf_vF9dvDzw/edit?utm_content=DAF7Qiam-c4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)] 
 
 <h1 align="center">Hi 👋, I'm Ray BERJANY-OUAMBA</h1>
 <h3 align="center">A passionate Web developer from Montreal</h3>
+<img align="right" alt="coding" width="400" src="https://www.canva.com/design/DAF7Qiam-c4/_M0LkgpvqCRlf_vF9dvDzw/edit?utm_content=DAF7Qiam-c4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ray-b-ouamba&label=Profile%20views&color=0e75b6&style=flat" alt="ray-b-ouamba" /> </p>
 
