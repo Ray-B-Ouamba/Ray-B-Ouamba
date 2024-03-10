@@ -1,7 +1,7 @@
 ![logo](https://github.com/Ray-B-Ouamba/Ray-B-Ouamba/blob/main/gitHub%20Banner.png)
 
 <h1 align="center">Hi 👋, I'm Ray BERJANY-OUAMBA</h1>
-<h3 align="center">A passionate Web developer from Montreal</h3>
+<h3 align="center">A passionate Software Enginner from Montreal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ray-b-ouamba&label=Profile%20views&color=0e75b6&style=flat" alt="ray-b-ouamba" /> </p>
 
