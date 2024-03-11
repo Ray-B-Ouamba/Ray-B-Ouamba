@@ -1,19 +1,19 @@
 ![logo](https://github.com/Ray-B-Ouamba/Ray-B-Ouamba/blob/main/gitHub%20Banner.png)
 
-<h1 align="center">Hi 👋, I'm Ray BERJANY-OUAMBA</h1>
-<h3 align="center">A passionate Software Enginner from Montreal</h3>
+<h4>A passionate Remote Software Enginner from Montreal.I'm inspired and motivated by the ability of technology to effect positive change inspires and motivates me.
+</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ray-b-ouamba&label=Profile%20views&color=0e75b6&style=flat" alt="ray-b-ouamba" /> </p>
 
 <p align="left"> <a href="https://twitter.com/rayberjany" target="blank"><img src="https://img.shields.io/twitter/follow/rayberjany?logo=twitter&style=for-the-badge" alt="rayberjany" /></a> </p>
 
+<h2> PROJECTS</h2>
 - 👨‍💻 Some of my projects are available at [https://ray-b-ouamba-portfolio.netlify.app/](https://ray-b-ouamba-portfolio.netlify.app/)
 
-- 📫 How to reach me **rayberjany@gmail.com**
+<h2>CONTACT</h2>
+**rayberjany@gmail.com**
 
-- ⚡ Fun fact **I am seriously serious**
-
-<h3 align="left">Connect with me:</h3>
+<h2>CONNECTS</h2>
 <p align="left">
 <a href="https://twitter.com/rayberjany" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rayberjany" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/linkedin.com/ray b.ouamba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/ray b.ouamba" height="30" width="40" /></a>
