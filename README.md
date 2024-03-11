@@ -15,7 +15,7 @@
 
 <hr>
 <h2 align="center"> PROJECTS</h2>
-- 👨‍💻 Some of my projects are available at [https://ray-b-ouamba-portfolio.netlify.app/](https://ray-b-ouamba-portfolio.netlify.app/)
+- 👨‍💻 Some of my projects are available at https://ray-b-ouamba-portfolio.netlify.app/
 
 <hr>
 <h2 align="center">CONTACT</h2>
