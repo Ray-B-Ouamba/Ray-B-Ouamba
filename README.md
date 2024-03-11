@@ -1,7 +1,7 @@
 ![logo](https://github.com/Ray-B-Ouamba/Ray-B-Ouamba/blob/main/gitHub%20Banner.png)
 
-<h4>A passionate Remote Software Enginner from Montreal.I'm inspired and motivated by the ability of technology to effect positive change inspires and motivates me.
-</h4>
+<p>A passionate Remote Software Enginner from Montreal.I'm inspired and motivated by the ability of technology to effect positive change inspires and motivates me.
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ray-b-ouamba&label=Profile%20views&color=0e75b6&style=flat" alt="ray-b-ouamba" /> </p>
 
