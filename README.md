@@ -42,9 +42,9 @@
 <hr>
 <h2 align="center">STATISTICS</h2>
 <div  align="center" dir="auto">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ray-b-ouamba&show_icons=true&locale=en&layout=compact" alt="ray-b-ouamba" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ray-b-ouamba&show_icons=true&locale=en&layout=compact" alt="ray-b-ouamba" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ray-b-ouamba&show_icons=true&locale=en" alt="ray-b-ouamba" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=ray-b-ouamba&show_icons=true&locale=en" alt="ray-b-ouamba" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ray-b-ouamba&" alt="ray-b-ouamba" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=ray-b-ouamba&" alt="ray-b-ouamba" /></p>
 </div>
