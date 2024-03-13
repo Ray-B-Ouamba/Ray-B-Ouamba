@@ -18,7 +18,7 @@
 
 ![logo](AirSalon.PNG)
 
-<p  align="20px">https://ray-b-ouamba-portfolio.netlify.app/</p>
+https://anaelle-k-hair-salon.netlify.app
 
 <hr>
 <h2 align="center">CONTACT</h2>
