@@ -17,7 +17,8 @@
 <h2 align="center"> PROJECTS</h2>
 
 ![logo](MyPortfolio.PNG)
-https://ray-b-ouamba-portfolio.netlify.app/
+
+<a  align="center" dir="auto">https://ray-b-ouamba-portfolio.netlify.app/</a>
 
 <hr>
 <h2 align="center">CONTACT</h2>
