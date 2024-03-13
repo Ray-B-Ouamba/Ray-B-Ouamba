@@ -18,7 +18,7 @@
 
 ![logo](MyPortfolio.PNG)
 
-<a  align="center" dir="auto">https://ray-b-ouamba-portfolio.netlify.app/</a>
+<p  align="center" dir="auto">https://ray-b-ouamba-portfolio.netlify.app/</p>
 
 <hr>
 <h2 align="center">CONTACT</h2>
