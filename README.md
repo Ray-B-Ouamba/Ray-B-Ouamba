@@ -8,7 +8,7 @@
 </a>
 </p>
 
-<p> A dedicated Montreal-based remote software engineer.The ability of technology to effect positive change inspires and motivates me.
+<p> A dedicated Montreal-based remote software engineer.The ability of technology to effect positive change inspires and motivates me.  ABC
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ray-b-ouamba&label=Profile%20views&color=0e75b6&style=flat" alt="ray-b-ouamba" /> </p>
