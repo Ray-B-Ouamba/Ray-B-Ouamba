@@ -1,4 +1,4 @@
-![logo](https://github.com/Ray-B-Ouamba/Ray-B-Ouamba/blob/main/gitHub%20Banner.png) 
+![logo](https://github.com/Ray-B-Ouamba/Ray-B-Ouamba/blob/main/gitHub%20Banner.png)   
 <p align="center" dir="auto"> 
 <a href="https://www.linkedin.com/in/ray-b-ouamba-b329aa262/" rel="nofollow">
   <img src="https://camo.githubusercontent.com/792be9dc5bdc01c6a40a25770490e6ae37afa3c52cab4203e65d64f5e48ffaf1/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d4c494e4b45442d494e26636f6c6f723d636466393938267374796c653d706c6173746963266c6f676f3d6c696e6b6564696e266c6f676f2d636f6c6f723d7768697465" data-canonical-src="https://img.shields.io/static/v1?label=|&amp;message=LINKED-IN&amp;color=cdf998&amp;style=plastic&amp;logo=linkedin&amp;logo-color=white" style="max-width: 100%;">
