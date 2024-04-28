@@ -18,8 +18,8 @@
 <hr>
 <h2 align="center"> PROJECTS</h2>
 
-![logo](portfolio-picture.jpg)
 
+![logo](portfolio-picture.jpg)/
 <p  align="center" dir="auto">https://ray-b-ouamba-portfolio2024.netlify.app</p>
 
 <hr>
