@@ -1,4 +1,4 @@
-
+![image](https://github.com/Ray-B-Ouamba/Ray-B-Ouamba/assets/121219876/3283a9fb-ef36-494a-9ec6-26fcde0b881a)
 ![logo](https://github.com/Ray-B-Ouamba/Ray-B-Ouamba/blob/main/gitHub%20Banner.png)  
 
 <p align="center" dir="auto"> 
@@ -18,7 +18,7 @@
 <hr>
 <h2 align="center"> PROJECTS</h2>
 
-![logo](MyPortfolio.PNG)
+![logo](portfolio-picture.jpg)
 
 <p  align="center" dir="auto">https://ray-b-ouamba-portfolio2024.netlify.app</p>
 
