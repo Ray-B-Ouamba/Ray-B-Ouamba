@@ -1,17 +1,36 @@
 <!--xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx HEADER SECTION xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx-->
 ![logo](https://github.com/Ray-B-Ouamba/Ray-B-Ouamba/blob/main/gitHub%20Banner.png)  
 
-<p align="center" dir="auto"> 
-<a href="https://www.linkedin.com/in/ray-b-ouamba-b329aa262/" rel="nofollow">
-  <img src="https://camo.githubusercontent.com/792be9dc5bdc01c6a40a25770490e6ae37afa3c52cab4203e65d64f5e48ffaf1/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d4c494e4b45442d494e26636f6c6f723d636466393938267374796c653d706c6173746963266c6f676f3d6c696e6b6564696e266c6f676f2d636f6c6f723d7768697465" data-canonical-src="https://img.shields.io/static/v1?label=|&amp;message=LINKED-IN&amp;color=cdf998&amp;style=plastic&amp;logo=linkedin&amp;logo-color=white" style="max-width: 100%;">
-</a>
-<a href="https://twitter.com/Rayberjany" rel="nofollow">
-  <img src="https://camo.githubusercontent.com/0140d6bb490af02718acdd889de60fe393d88e278f040ab35ac3766fd5933a91/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d5457495454455226636f6c6f723d323335353566267374796c653d706c6173746963266c6f676f3d74776974746572266c6f676f2d636f6c6f723d7768697465" data-canonical-src="https://img.shields.io/static/v1?label=|&amp;message=TWITTER&amp;color=23555f&amp;style=plastic&amp;logo=twitter&amp;logo-color=white" style="max-width: 100%;">
-</a>
+<!--xxxxxxxxxxxxxxxxxx LOGO FOR EACH LINK ADRESSES xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx-->
+<p align="center" dir="auto">
+  <!--xxxxxxxxxxxxxxxxxx WEBSITE LOGO xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+  <a href="https://shawncharles.com" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/24d5ffb9c2382036a9f243a7dfbef6da22ded4011e717d003e3d46fd00b95172/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d5745425349544526636f6c6f723d323335353566267374796c653d706c6173746963266c6f676f3d7265616374266c6f676f2d636f6c6f723d7768697465" data-canonical-src="https://img.shields.io/static/v1?label=|&amp;message=WEBSITE&amp;color=23555f&amp;style=plastic&amp;logo=react&amp;logo-color=white" style="max-width: 100%;">
+  </a>-->
+
+   <!--xxxxxxxxxxxxxxxxxx LINKEDIN LOGO xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx-->
+  <a href="https://shawncharles.com/linkedin" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/57fad13d653a6a5ed1e7b53a2a38d1a6c618925918b7c48fd2825422d64b1790/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d4c494e4b45442d494e26636f6c6f723d636466393938267374796c653d706c6173746963266c6f676f3d6c696e6b6564696e266c6f676f2d636f6c6f723d7768697465" data-canonical-src="https://img.shields.io/static/v1?label=|&amp;message=LINKED-IN&amp;color=cdf998&amp;style=plastic&amp;logo=linkedin&amp;logo-color=white" style="max-width: 100%;">
+  </a>
+
+   <!--xxxxxxxxxxxxxxxxxx TWITTER LOGO xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx-->
+  <a href="https://shawncharles.com/twitter" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/f965d4c8901032f4970045299ffe866f5f3add9559671b3c99b88ff18d1bf7a6/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d5457495454455226636f6c6f723d323335353566267374796c653d706c6173746963266c6f676f3d74776974746572266c6f676f2d636f6c6f723d7768697465" data-canonical-src="https://img.shields.io/static/v1?label=|&amp;message=TWITTER&amp;color=23555f&amp;style=plastic&amp;logo=twitter&amp;logo-color=white" style="max-width: 100%;">
+  </a>
+ <!--xxxxxxxxxxxxxxxxxx ANGELIST LOGO xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+  <a href="https://shawncharles.com/angellist" rel="nofollow">
+      <img src="https://camo.githubusercontent.com/08ac2f1725ff6c9ca5ffaa4dcc684f0e83802b49bf6657fdf227c9b7fbe70bc8/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d414e47454c2d4c49535426636f6c6f723d636466393938267374796c653d706c6173746963266c6f676f3d616e67656c6c697374266c6f676f2d636f6c6f723d7768697465" data-canonical-src="https://img.shields.io/static/v1?label=|&amp;message=ANGEL-LIST&amp;color=cdf998&amp;style=plastic&amp;logo=angellist&amp;logo-color=white" style="max-width: 100%;">
+  </a>-->
+ <!--xxxxxxxxxxxxxxxxxx RESUME LOGO xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx-->
+  <a href="https://shawncharles.com/resume" rel="nofollow">
+      <img src="https://camo.githubusercontent.com/d8227430855e6256bb09e5a62ed2d43e9c7075fa937f7de166343988aeb816ea/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d524553554d4526636f6c6f723d323335353566267374796c653d706c6173746963266c6f676f3d7265616374266c6f676f2d636f6c6f723d7768697465" data-canonical-src="https://img.shields.io/static/v1?label=|&amp;message=RESUME&amp;color=23555f&amp;style=plastic&amp;logo=react&amp;logo-color=white" style="max-width: 100%;">
+  </a>
 </p>
+
+<!--xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx-->
+
 <!--xxxxxxxxxxxxx PARAGRAPHS xxxxxxxxxxxxxxxxxxxxxx-->
-<p> A dedicated Montreal-based remote software engineer.The ability of technology to effect positive change inspires and motivates me.  
-</p>
+<p> A dedicated Montreal-based remote software engineer.The ability of technology to effect positive change inspires and motivates me.  </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ray-b-ouamba&label=Profile%20views&color=0e75b6&style=flat" alt="ray-b-ouamba" /> </p>
 
