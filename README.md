@@ -50,6 +50,7 @@
 <hr>
 <h2 align="center">TECHNOLOGIES</h2>
 <!--xxxxxxxxxxxxxx HTML xxxxxxxxxxxxxxxxxxxx-->
+<img src="https://camo.githubusercontent.com/b162fda800f99b597682cc02c227775166637ab7793af44821d09ef448ce366a/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d48544d4c3526636f6c6f723d323335353566267374796c653d706c6173746963266c6f676f3d68746d6c35" data-canonical-src="https://img.shields.io/static/v1?label=|&amp;message=HTML5&amp;color=23555f&amp;style=plastic&amp;logo=html5" style="max-width: 100%;">
 <!--xxxxxxxxxxxxxx CSS xxxxxxxxxxxxxxxxxxxx-->
 <!--xxxxxxxxxxxxxx JAVASCRIPT xxxxxxxxxxxxxxxxxxxx-->
 <!--xxxxxxxxxxxxxx REACT xxxxxxxxxxxxxxxxxxxx-->
