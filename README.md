@@ -14,7 +14,7 @@
   </a>
 
    <!--xxxxxxxxxxxxxxxxxx TWITTER LOGO xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx-->
-  <a href="https://shawncharles.com/twitter" rel="nofollow">
+  <a href="https://x.com/Rayberjany" rel="nofollow">
     <img src="https://camo.githubusercontent.com/f965d4c8901032f4970045299ffe866f5f3add9559671b3c99b88ff18d1bf7a6/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d5457495454455226636f6c6f723d323335353566267374796c653d706c6173746963266c6f676f3d74776974746572266c6f676f2d636f6c6f723d7768697465" data-canonical-src="https://img.shields.io/static/v1?label=|&amp;message=TWITTER&amp;color=23555f&amp;style=plastic&amp;logo=twitter&amp;logo-color=white" style="max-width: 100%;">
   </a>
  <!--xxxxxxxxxxxxxxxxxx ANGELIST LOGO xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
