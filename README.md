@@ -39,8 +39,11 @@
 <h2 align="center"> PROJECTS</h2>
 
 ![image](https://github.com/Ray-B-Ouamba/Ray-B-Ouamba/assets/121219876/3283a9fb-ef36-494a-9ec6-26fcde0b881a)
-<p  align="center" dir="auto">my-new-portfolio2024.netlify.app</p>
-
+<p align="center" dir="auto">
+  <a href="https://my-last-portfolio2024.netlify.app" target="_blank">
+    Visit My Portfolio
+  </a>
+</p>
 
 <!--xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx CONTACTS SECTION xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx-->
 <hr>
